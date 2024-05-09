@@ -16,4 +16,4 @@ If you have any feedback, Use the issues tab. (also use it to report issues obvi
 
 Alright, imma head out<!--funni image was here-->
 
-![hi there traveler](https://c.tenor.com/fV2bXnVB-WcAAAAC/tenor.gif)
+![hello there](Images/README.gif)
