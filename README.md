@@ -16,4 +16,4 @@ If you have any feedback, Use the issues tab. (also use it to report issues obvi
 
 Alright, imma head out<!--funni image was here-->
 
-![hello there](Images/README.gif)
+![hello there](https://cfiles.cjsprojects.com/CJsProjects/CDN/raw/branch/main/Images/README.gif)
